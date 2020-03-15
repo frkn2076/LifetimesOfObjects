@@ -1,0 +1,16 @@
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\bin\Debug\netcoreapp2.1\LifetimesOfObjects.deps.json
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\bin\Debug\netcoreapp2.1\LifetimesOfObjects.runtimeconfig.json
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\bin\Debug\netcoreapp2.1\LifetimesOfObjects.runtimeconfig.dev.json
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\bin\Debug\netcoreapp2.1\LifetimesOfObjects.dll
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\bin\Debug\netcoreapp2.1\LifetimesOfObjects.pdb
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\obj\Debug\netcoreapp2.1\LifetimesOfObjects.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\obj\Debug\netcoreapp2.1\LifetimesOfObjects.RazorAssemblyInfo.cache
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\obj\Debug\netcoreapp2.1\LifetimesOfObjects.RazorAssemblyInfo.cs
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\obj\Debug\netcoreapp2.1\LifetimesOfObjects.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\obj\Debug\netcoreapp2.1\LifetimesOfObjects.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\obj\Debug\netcoreapp2.1\LifetimesOfObjects.RazorTargetAssemblyInfo.cache
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\obj\Debug\netcoreapp2.1\LifetimesOfObjects.dll
+C:\Users\Furkan\source\repos\LifetimesOfObjects\LifetimesOfObjects\obj\Debug\netcoreapp2.1\LifetimesOfObjects.pdb
